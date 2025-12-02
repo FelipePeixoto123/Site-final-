@@ -413,7 +413,7 @@
             position: absolute;
             right: 0;
             top:0;
-            margin-top: 13.5%;
+            margin-top: 17.5%;
             margin-right: 10%;
             border-color: #004A9E;
             border-radius: 10px;
@@ -560,4 +560,5 @@
             border-top: 1px solid rgba(255,255,255,0.2);
             font-size: 14px;
             color: #d7d7d7;
+
         }
